@@ -11,4 +11,7 @@ class controller {
     static let qq = controller()
     let qwe = ""
     let asdzxc = 33
+    let newObj = newObject()
+    let advNew = advNewObj()
+    
 }
