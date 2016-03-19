@@ -9,9 +9,10 @@
 import Foundation
 class controller {
     static let qq = controller()
-    let qwe = ""
-    let asdzxc = 33
+    let qwe = ";lkfkffk"
+    let asdzxc = 44
     let newObj = newObject()
     let advNew = advNewObj()
     
+
 }
