@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A973E9D51C9D4C2900DCB4F8 /* advNewObj.swift in Sources */ = {isa = PBXBuildFile; fileRef = A973E9D41C9D4C2900DCB4F8 /* advNewObj.swift */; };
 		A9E971F11C9D390600295171 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9E971F01C9D390600295171 /* AppDelegate.swift */; };
 		A9E971F31C9D390600295171 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9E971F21C9D390600295171 /* ViewController.swift */; };
 		A9E971F61C9D390600295171 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A9E971F41C9D390600295171 /* Main.storyboard */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A973E9D41C9D4C2900DCB4F8 /* advNewObj.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = advNewObj.swift; sourceTree = "<group>"; };
 		A9E971ED1C9D390600295171 /* qweas.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = qweas.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9E971F01C9D390600295171 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A9E971F21C9D390600295171 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 				A9E971F21C9D390600295171 /* ViewController.swift */,
 				A9E972051C9D3A3000295171 /* DataManager.swift */,
 				A9E972071C9D465000295171 /* newObject.swift */,
+				A973E9D41C9D4C2900DCB4F8 /* advNewObj.swift */,
 				A9E971F41C9D390600295171 /* Main.storyboard */,
 				A9E971FA1C9D390600295171 /* Assets.xcassets */,
 				A9E971FC1C9D390600295171 /* LaunchScreen.storyboard */,
@@ -146,6 +149,7 @@
 			files = (
 				A9E971F91C9D390600295171 /* qweas.xcdatamodeld in Sources */,
 				A9E972061C9D3A3000295171 /* DataManager.swift in Sources */,
+				A973E9D51C9D4C2900DCB4F8 /* advNewObj.swift in Sources */,
 				A9E971F31C9D390600295171 /* ViewController.swift in Sources */,
 				A9E971F11C9D390600295171 /* AppDelegate.swift in Sources */,
 				A9E972081C9D465000295171 /* newObject.swift in Sources */,
